@@ -1,0 +1,60 @@
+{
+    "products": [
+        {
+            "seller_name": "Tyler Sherman",
+            "product_name": "Android",
+            "description": "#Google",
+            "price": "250.01",
+            "picture": "https://raw.githubusercontent.com/TylerSSherman98/Marketplace-App/master/Images/android.jpg"
+        },
+        {
+            "seller_name": "Forest Colerick",
+            "product_name": "Apple",
+            "description": "Pictures just don't do it justice. Truly revolutionary.",
+            "price": "100000",
+            "picture": "https://raw.githubusercontent.com/TylerSSherman98/Marketplace-App/master/Images/apple.jpg"
+        },
+        {
+            "seller_name": "Explosions 'R' Us",
+            "product_name": "Samsung Galaxy S7",
+            "description": "The future, or say they said.",
+            "price": "0.01",
+            "picture": "https://raw.githubusercontent.com/TylerSSherman98/Marketplace-App/master/Images/samsung.jpg"
+        },
+        {
+            "seller_name": "Emily Gyles",
+            "product_name": "Kraft Mac & Cheese",
+            "description": "This. Is. College.",
+            "price": "5.75",
+            "picture": "https://raw.githubusercontent.com/TylerSSherman98/Marketplace-App/master/Images/macAndCheese.jpeg"
+        },
+        {
+            "seller_name": "Matt Marani",
+            "product_name": "Grass",
+            "description": "No comment.",
+            "price": "123456.78",
+            "picture": ""
+        },
+        {
+            "seller_name": "Forest Colerick",
+            "product_name": "Baby Trees",
+            "description": "Little. Ity. Bitty. Trees.",
+            "price": "299999.99",
+            "picture": "https://raw.githubusercontent.com/TylerSSherman98/Marketplace-App/master/Images/trees.jpg"
+        },
+        {
+            "seller_name": "Lee Hofman",
+            "product_name": "Invasive Species",
+            "description": "They are invasive. They are species. They are everywhere. #ExoticPetTrade",
+            "price": "37.65",
+            "picture": "https://raw.githubusercontent.com/TylerSSherman98/Marketplace-App/master/Images/invasiveSpecies.jpg"
+        },
+        {
+            "seller_name": "Dr. Harmon",
+            "product_name": "Knowledge",
+            "description": "I teach the future youths of your nation.",
+            "price": "99.99",
+            "picture": ""
+        }
+    ]
+}
