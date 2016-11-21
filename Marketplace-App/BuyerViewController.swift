@@ -9,7 +9,7 @@
 import UIKit
 
 class BuyerViewController: UIViewController {
-
+ 
     var buyer: Buyer?
     var emailButton: UIButton!
     var phoneButton: UIButton!
