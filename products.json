@@ -55,6 +55,13 @@
             "description": "I teach the future youths of your nation.",
             "price": "99.99",
             "picture": ""
+        },
+        {
+            "seller_name": "Avatar",
+            "product_name": "Pure oxygen",
+            "description": "nah you got it.",
+            "price": "3.14",
+            "picture": ""
         }
     ]
 }
